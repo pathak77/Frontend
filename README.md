@@ -1,4 +1,4 @@
-# AETHER - A Modern Jewel Site
+# AETHER - A Modern Jewel Site -> [link](http://20.193.152.23/)
 
 A modern React 19 application showcasing a responsive jewelry e-commerce platform with TailwindCSS styling, Redux for state management, JWT authentication, smooth animations, modals, sliders, and date formatting. For backend setup, refer to the [Backend Repository](https://github.com/pathak77/Backend) built with Java Spring Boot.
 
