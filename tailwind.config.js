@@ -1,3 +1,5 @@
+
+/** THIS IS TAILWIND CONFIG TO ENABLE IT */
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   content: [
